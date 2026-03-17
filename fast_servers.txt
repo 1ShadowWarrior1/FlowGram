@@ -1,12 +1,15 @@
-# Ping: 1412ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687 # 🔒 [By EbraSha]
+# Ping: 300ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#🇫🇮[By EbraSha] ss-FI 🔒
 
-# Ping: 1414ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637 # 🔒 [By EbraSha]
+# Ping: 396ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Sjc1NGVlNklUanlmRHlzaTc4dXFK@194.68.225.52:65232#🇧🇬[By EbraSha] ss-BG 🔒
 
-# Ping: 1421ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Sjc1NGVlNklUanlmRHlzaTc4dXFK@194.68.225.52:65232 # 🔒 [By EbraSha]
+# Ping: 557ms
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=/?ed=2048&security=tls&encryption=none&insecure=1&host=nl13.maxriser.ir&fp=chrome&type=ws&allowInsecure=1&sni=nl13.maxriser.ir#🇳🇱[By EbraSha] vless-NL 🔒
 
-# Ping: 8844ms
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444 # 🔒 [By EbraSha]
+# Ping: 1287ms
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#🇰🇷[By EbraSha] trojan-KR 🔒
+
+# Ping: 1321ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#🇱🇻[By EbraSha] ss-LV 🔒
 
