@@ -1,5 +1,0 @@
-vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=/?ed=2048&security=tls&encryption=none&insecure=1&host=nl13.maxriser.ir&fp=chrome&type=ws&allowInsecure=1&sni=nl13.maxriser.ir#🇳🇱[openproxylist.com] vless-NL
-trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls#🇸🇬[openproxylist.com] trojan-SG
-trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls#🇸🇬[openproxylist.com] trojan-SG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#🇫🇮[openproxylist.com] ss-FI
-vmess://eyJhZGQiOiJucXprYi5jbXZ2Yi5vbmxpbmUiLCJhaWQiOjAsImhvc3QiOiJucXprYi5jbXZ2Yi5vbmxpbmUiLCJpZCI6IjE2NjA0YjQ4LTc0OTctNDI4Yy1hNmQ0LWIwMTdiM2EzMGNlNCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtREUiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
