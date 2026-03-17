@@ -1,3 +1,8 @@
-trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls#🇸🇬[openproxylist.com] trojan-SG
-trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls#🇸🇬[openproxylist.com] trojan-SG
-vmess://eyJhZGQiOiJucXprYi5jbXZ2Yi5vbmxpbmUiLCJhaWQiOjAsImhvc3QiOiJucXprYi5jbXZ2Yi5vbmxpbmUiLCJpZCI6IjE2NjA0YjQ4LTc0OTctNDI4Yy1hNmQ0LWIwMTdiM2EzMGNlNCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtREUiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
+trojan://telegram-id-privatevpns@51.45.11.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4FreeIran-4902
+trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&type=ws&path=/#%5BOpenRay%5D%20Dynamic-16541
+trojan://IL37892054@eternal-woodcock.rooster465.autos:443?security=tls&sni=eternal-woodcock.rooster465.autos&insecure=1&allowInsecure=1&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-406
+trojan://telegram-id-directvpn@51.45.11.182:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4FreeIran-4811
+trojan://IL37892054@new-eagle.rooster465.autos:443?security=tls&sni=new-eagle.rooster465.autos&insecure=1&allowInsecure=1&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-1513
+trojan://IL37892054@capable-loon.rooster465.autos:443?security=tls&sni=capable-loon.rooster465.autos&insecure=1&allowInsecure=1&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-1516
+trojan://IL37892054@humorous-foxhound.rooster465.autos:443?security=tls&sni=humorous-foxhound.rooster465.autos&insecure=1&allowInsecure=1&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-1511
+trojan://IL37892054@welcome-owl.rooster465.autos:443?security=tls&sni=welcome-owl.rooster465.autos&insecure=1&allowInsecure=1&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-1515
