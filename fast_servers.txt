@@ -1,4 +1,4 @@
 vless://9461e38e-d6fa-4b5c-9250-8888b54c201c@91.149.218.139:35129?type=tcp&encryption=none&security=reality&pbk=zgmM8i4dMb1ZDibDbMGt_F18vb1VWcUWet_jsEx54mQ&fp=chrome&sni=bing.com&sid=a89abf67bea2f2bc&spx=%2F#🇫🇷FlowVPN
 vless://9ffba80b-d6e9-4c27-8408-4300e542f497@91.149.239.235:32290?type=tcp&encryption=none&security=reality&pbk=W3YDZFoM4ndxat7RZXSJsXTplAAfX18960i1kSJpVl4&fp=chrome&sni=bing.com&sid=099dba&spx=%2F#🇺🇸FlowVPN
 vless://5a682034-2600-4707-8272-d017f7a1b861@206.245.134.88:10879?type=tcp&encryption=none&security=reality&pbk=iYJtzVKm3gAjoDizhAFiCR7q2Kro-nRaxInVUZ8qTkY&fp=chrome&sni=bing.com&sid=4e&spx=%2F#🇩🇪FlowVPN
-vless://72bd10fb-06f3-43e5-95e0-746fd4fc65ab@91.149.218.139:33699?type=tcp&encryption=none&security=reality&pbk=bps7t0ITipJwXzzRl_i6oS-3p_RpHapioUtB-lXjWWk&fp=random&sni=www.rbc.ru&sid=4d902c&spx=%2F&flow=xtls-rprx-vision#tg%20vless%20ru-%F0%9F%87%AB%F0%9F%87%B7FlowVPN
+vless://72bd10fb-06f3-43e5-95e0-746fd4fc65ab@91.149.218.139:33699?type=tcp&encryption=none&security=reality&pbk=bps7t0ITipJwXzzRl_i6oS-3p_RpHapioUtB-lXjWWk&fp=random&sni=www.rbc.ru&sid=4d902c&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7FlowVPN
