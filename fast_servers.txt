@@ -8,4 +8,4 @@ vless://43a9c473-0e6b-4700-942b-564ab478fb4b@91.149.239.235:56280?type=tcp&encry
 
 vless://5a682034-2600-4707-8272-d017f7a1b861@206.245.134.88:10879?type=tcp&encryption=none&security=reality&pbk=iYJtzVKm3gAjoDizhAFiCR7q2Kro-nRaxInVUZ8qTkY&fp=chrome&sni=bing.com&sid=4e&spx=%2F#🇩🇪FlowVPN
 
-vless://66193950-01e0-44c5-82da-20082855aa13@206.245.134.88:58413?type=tcp&encryption=none&security=reality&pbk=JbVl_I6ffnZVl8mgTwrVq36TO2UKLiGrGPkmFuvstTE&fp=random&sni=www.rbc.ru&sid=1fd2&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AAFlowVPN-ru
+vless://66193950-01e0-44c5-82da-20082855aa13@206.245.134.88:58414?type=tcp&encryption=none&security=reality&pbk=JbVl_I6ffnZVl8mgTwrVq36TO2UKLiGrGPkmFuvstTE&fp=random&sni=www.rbc.ru&sid=1fd2&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AAFlowVPN-ru
