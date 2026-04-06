@@ -25,6 +25,3 @@ vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@85.208.108.63:8443?encryption=none&
 
 ### 🇳🇱 NETHERLANDS
 vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@89.124.80.54:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=random&pbk=g1S1MrT0IaHrLmaUhPxZyv4BSQyWg1T_nAJeYF0qpkE&sid=4e8678d7eb7f57cc&spx=%2FoOmW7ErOwvBDJPr&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23506
-
-### 🇷🇺 RUSSIA
-vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@193.233.253.77:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20GCS%20%E2%80%94%20%2374
