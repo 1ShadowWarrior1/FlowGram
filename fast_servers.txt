@@ -12,19 +12,3 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?encryption=none
 vless://9ffba80b-d6e9-4c27-8408-4300e542f497@91.149.239.235:32290?type=tcp&encryption=none&security=reality&pbk=W3YDZFoM4ndxat7RZXSJsXTplAAfX18960i1kSJpVl4&fp=chrome&sni=bing.com&sid=099dba&spx=%2F#🇺🇸FlowVPN
 vless://43a9c473-0e6b-4700-942b-564ab478fb4b@91.149.239.235:56280?type=tcp&encryption=none&security=reality&pbk=d97sAj6DJDVWgq0zDWbisi8KnPj8f0BExY3Ts28CHRE&fp=random&sni=www.rbc.ru&sid=e42756ebcc3285a1&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8FlowVPN-ru
 
-### 🇷🇸 SERBIA
-vless://5d340e6f-f12d-4ab7-a526-7465425c0fb3@5.129.243.61:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=csa.fasssst.ru&fp=chrome&pbk=bx9w-fvI0FrGFr0B5ArLopRf3V1BjAIIZTl87lagJGU&sid=13ce7af0189beb&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%B8%20Serbia%20%E2%80%94%20%23555
-vless://5d340e6f-f12d-4ab7-a526-7465425c0fb3@5.129.243.61:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=csa.fasssst.ru&fp=chrome&pbk=bx9w-fvI0FrGFr0B5ArLopRf3V1BjAIIZTl87lagJGU&sid=13ce7af0189beb&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%B8%20Serbia%20%E2%80%94%20%23556
-
-### 🇫🇷 FRANCE
-vless://9461e38e-d6fa-4b5c-9250-8888b54c201c@91.149.218.139:35129?type=tcp&encryption=none&security=reality&pbk=zgmM8i4dMb1ZDibDbMGt_F18vb1VWcUWet_jsEx54mQ&fp=chrome&sni=bing.com&sid=a89abf67bea2f2bc&spx=%2F#🇫🇷FlowVPN
-vless://72bd10fb-06f3-43e5-95e0-746fd4fc65ab@91.149.218.139:33699?type=tcp&encryption=none&security=reality&pbk=bps7t0ITipJwXzzRl_i6oS-3p_RpHapioUtB-lXjWWk&fp=random&sni=www.rbc.ru&sid=4d902c&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7FlowVPN-ru
-
-### 🇨🇦 CANADA
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@85.208.108.63:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%E2%80%94%20%23175
-
-### 🇳🇱 NETHERLANDS
-vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@89.124.80.54:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=random&pbk=g1S1MrT0IaHrLmaUhPxZyv4BSQyWg1T_nAJeYF0qpkE&sid=4e8678d7eb7f57cc&spx=%2FoOmW7ErOwvBDJPr&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23506
-
-### 🇷🇺 RUSSIA
-vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@193.233.253.77:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20GCS%20%E2%80%94%20%2374
