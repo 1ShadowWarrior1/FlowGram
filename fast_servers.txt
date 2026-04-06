@@ -27,11 +27,3 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?encryption=none
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?encryption=none&security=none&type=ws&host=tt.andishehparenting.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23218
 
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?encryption=none&security=none&type=ws&host=tt.andishehparenting.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23220
-
-vless://4046b25c-ad97-44e7-b465-2c4bba8d7580@176.124.211.23:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vkvideo.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%23103
-
-vless://4046b25c-ad97-44e7-b465-2c4bba8d7580@176.124.211.23:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%23106
-
-vless://4046b25c-ad97-44e7-b465-2c4bba8d7580@176.124.211.23:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%23104
-
-vless://4046b25c-ad97-44e7-b465-2c4bba8d7580@176.124.211.23:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn-vx.barclais.co.uk&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%23105
