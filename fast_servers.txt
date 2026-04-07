@@ -57,13 +57,6 @@ vless://5d544104-6bb9-4165-be32-5743eda492bc@81.200.148.11:443?encryption=none&f
 vless://b939686c-82b6-44fe-95cf-3086d88151b9@178.250.246.103:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru%3A443&fp=random&pbk=D5ttWzeUeEo0oKchjhHGY7Z8jFrAB-BOz6kdQpCrZg0&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23762
 vless://00c5a32b-c38e-414c-9f1a-a4dfe69363fe@178.250.246.103:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru%3A443&fp=random&pbk=D5ttWzeUeEo0oKchjhHGY7Z8jFrAB-BOz6kdQpCrZg0&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23756
 
-### 🇷🇺 RUSSIA / VARIOUS
-vless://4984b534-98a8-4e1c-a079-a48d9d9dc86c@217.16.31.131:8443?encryption=none&security=reality&sni=sso.passport.yandex.ru&fp=chrome&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a&type=grpc&authority=&serviceName=UpdateService&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%23144
-vless://5a36817c-83c0-4032-a4e8-caf1f91a44ab@79.174.95.163:2083?encryption=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&type=grpc&authority=&serviceName=UpdateService&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20reg.ru%20%E2%80%94%20%23207
-vless://92b2f33a-4704-420c-814e-6efb04c823b7@103.88.243.165:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=random&pbk=TGCn_54sGMSXxlj9IpG8NCcxUlqBrUDzt-5vNwYNXhU&sid=b2a6e3d42f05c3d1&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%23300
-vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@89.208.228.76:443?encryption=none&security=reality&sni=eh.vk.com&fp=chrome&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55&type=grpc&authority=&serviceName=UpdateService&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%23101
-vless://09b81314-7592-4ffb-9773-6351de8a7f74@79.174.95.163:2083?encryption=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&type=grpc&authority=&serviceName=UpdateService&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20reg.ru%20%E2%80%94%20%23185
-
 ### 🇸🇪 SWEDEN
 vless://797bab1f-f7c1-4f56-a431-1cec67c358a4@185.242.16.16:443?encryption=none&security=tls&sni=mullsite.applepie-recipe.ru&insecure=0&allowInsecure=0&type=ws&host=mullsite.applepie-recipe.ru&path=%2FgetServiceStatus%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%23771
 
