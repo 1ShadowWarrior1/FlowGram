@@ -1,11 +1,11 @@
 ### 🇫🇷 FRANCE
 vless://9461e38e-d6fa-4b5c-9250-8888b54c201c@91.149.218.139:35129?type=tcp&encryption=none&security=reality&pbk=zgmM8i4dMb1ZDibDbMGt_F18vb1VWcUWet_jsEx54mQ&fp=chrome&sni=bing.com&sid=a89abf67bea2f2bc&spx=%2F#🇫🇷FlowVPN
-vless://a21fb698-0e7e-45c6-a609-6536e06e51d8@91.149.218.139:443?type=tcp&encryption=none&security=reality&pbk=SgEykLNDZqwkIZ2YuLPskru37K_ghUmaYSa2vndhxSY&fp=chrome&sni=www.microsoft.com&sid=acdb35&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7FlowVPN-ru
+vless://a21fb698-0e7e-45c6-a609-6536e06e51d8@91.149.218.139:443?type=tcp&encryption=none&security=reality&pbk=SgEykLNDZqwkIZ2YuLPskru37K_ghUmaYSa2vndhxSY&fp=chrome&sni=www.microsoft.com&sid=acdb35&spx=%2F&flow=xtls-rprx-vision#🇫🇷FlowVPN!
 
 ### 🇩🇪 GERMANY
 vless://5a682034-2600-4707-8272-d017f7a1b861@206.245.134.88:10879?type=tcp&encryption=none&security=reality&pbk=iYJtzVKm3gAjoDizhAFiCR7q2Kro-nRaxInVUZ8qTkY&fp=chrome&sni=bing.com&sid=4e&spx=%2F#🇩🇪FlowVPN
-vless://66193950-01e0-44c5-82da-20082855aa13@206.245.134.88:58414?type=tcp&encryption=none&security=reality&pbk=JbVl_I6ffnZVl8mgTwrVq36TO2UKLiGrGPkmFuvstTE&fp=random&sni=www.rbc.ru&sid=1fd2&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AAFlowVPN-ru
+vless://20420254-90b1-4ebb-878d-fd439f4aeae7@206.245.134.88:443?type=tcp&encryption=none&security=reality&pbk=DIJ2PV5PoVAA35i-HIr7gd7KHoKH7o-io7YvWzAdXgc&fp=chrome&sni=www.microsoft.com&sid=3a&spx=%2F&flow=xtls-rprx-vision#🇩🇪FlowVPN!
 
 ### 🇺🇸 USA
 vless://9ffba80b-d6e9-4c27-8408-4300e542f497@91.149.239.235:32290?type=tcp&encryption=none&security=reality&pbk=W3YDZFoM4ndxat7RZXSJsXTplAAfX18960i1kSJpVl4&fp=chrome&sni=bing.com&sid=099dba&spx=%2F#🇺🇸FlowVPN
-vless://43a9c473-0e6b-4700-942b-564ab478fb4b@91.149.239.235:56280?type=tcp&encryption=none&security=reality&pbk=d97sAj6DJDVWgq0zDWbisi8KnPj8f0BExY3Ts28CHRE&fp=random&sni=www.rbc.ru&sid=e42756ebcc3285a1&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8FlowVPN-ru
+vless://6a2fdbe3-58c5-4da8-8948-bf4bb4e215c1@91.149.239.235:443?type=tcp&encryption=none&security=reality&pbk=oN7Ut0MgONL7ZjPmk98ZmPEThOJO0DpazpT1-YH23y4&fp=chrome&sni=www.microsoft.com&sid=7a64ae8f7460&spx=%2F&flow=xtls-rprx-vision#🇺🇸FlowVPN!
